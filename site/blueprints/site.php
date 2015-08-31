@@ -15,6 +15,9 @@ fields:
   keywords:
     label: Keywords
     type:  tags
+  theme:
+    label: Theme
+    type: text
   copyright:
     label: Copyright
     type:  textarea

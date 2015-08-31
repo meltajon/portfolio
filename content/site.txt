@@ -14,4 +14,8 @@ Keywords: Kirby, CMS, file-based
 
 ----
 
+Theme: A01
+
+----
+
 Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
