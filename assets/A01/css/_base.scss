@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+html { @extend .ideal-sans; }
+
+/* GLOBALS
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+a:link,
+a:visited { color: $orange; }
+
+/* HEADER
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+#header { 
+	background: $dark; 
+	@extend .whitney_300; 
+}
+#logo { @extend .whitney_500; }
+#logo:link,
+#logo:visited { color: darken(#FFF, .1); }
+#logo:hover { color: $orange; }
+#header-description { color: darken(#E8E8E8, .4096); }
+
+/* FOOTER
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+#footer { 
+	width: 100%; 
+	@extend .whitney_300; 
+}
+#footer a:link,
+#footer a:visited { border: 0; }
+#footer a:hover { color: #FFF; }
+#footer-nav ins { text-decoration: none; }
+#copyright {
+	display: block; 
+	color: #7F7F7F; font-size: 0.875rem; text-align: center; 
+	background: $black; 
+}
+.copyright-link:link,
+.copyright-link:visited { color: #7F7F7F; }
+
+@media (max-width: 450px) {
+	#copyright ins { display: none; }
+	#footer-nav { background: darken($orange, .05); }
+	#footer-nav a:link,
+	#footer-nav a:visited,
+	#footer-nav a:hover,
+	#footer-nav a:active { 
+		display: block; 
+		padding: 15px; margin: 0;
+		border: 1px solid darken($orange, .1); border-width: 0 0 1px; 
+		text-align: left; text-decoration: none; 
+	}
+	#footer-nav a:link,
+	#footer-nav a:visited { color: $stone; }
+	#footer-nav a:hover { 
+		background: $orange; 
+		color: #FFF; 
+	}
+	#copyright {
+		padding: 1rem 0; 
+	}
+}
+@media (min-width: 451px) {
+	#copyright ins { 
+		display: inline; 
+		text-decoration: none; 
+	}
+	#footer {
+		padding: 1.6rem 0; 
+		text-align: center; 
+		background: $black; 
+	}
+	#footer-nav span:after {
+		content: " - ";
+	}
+	#footer-nav span:last-of-type:after {
+		content: "";
+	}
+	#footer-nav a { color: $stone; }
+	#footer-nav ins { display: none; }
+}
