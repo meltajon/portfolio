@@ -1,0 +1,21 @@
+Title: About This Site
+
+----
+
+Title-public: About This Site
+
+----
+
+Text: 
+
+This portfolio site was built in less than 24 hours using PHP, <a href="https://www.getkirby.com">Kirby</a>, SASS, Media Queries, and reusable code from three of my current projects.
+
+I build systems, not pages.
+
+Check out how this site works behind the scenes.
+
+<a class="cta-button" href="https://github.com/meltajon/portfolio">View on GitHub</a>
+
+----
+
+Subtitle: 

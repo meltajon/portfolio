@@ -1,0 +1,15 @@
+Title: The Singing Zone
+
+----
+
+Title-public: The Singing Zone
+
+----
+
+Text: 
+
+A hugely popular online singing and personal development program, *The Singing Zone* has helped singers in 132 countries develop their voices and performance abilities. Originally running on Wordpress, the website was too hard for the owner to customize the look of each page without getting lost in sloppy WYSIWYG-generated HTML.
+
+My solution was migrate the site to a new file-based CMS, <a href="https://www.getkirby.com">Kirby</a>, which allowed me to completely customize the Admin panel and make it more user-friendly for the owner.
+
+(image: macbook-pro_tsz.png class: macbook-pro_tsz)

@@ -1,0 +1,19 @@
+Title: Let's Connect
+
+----
+
+Title-public: Let's Connect
+
+----
+
+Text: 
+
+If you too believe in working smarter, not harder, and creating things <span class="inline-block">that resonate with people,</span> <span class="inline-block">I'd love to hear from you.</span>
+
+<a class="cta-button" href="mailto:meltajon+portfolio@gmail.com">Email</a>
+
+[Twitter](https://twitter.com/meltajon) - [LinkedIn](https://www.linkedin.com/in/meltajon)
+
+----
+
+Subtitle: 

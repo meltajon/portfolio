@@ -1,0 +1,13 @@
+Title: Hot Dogs
+
+----
+
+Title-public: 
+
+----
+
+Text: I can eat **three <span class="inline-block">Nathan's hot dogs</span>** <span class="inline-block">in **76 seconds**.</span> <span class="inline-block">With ketchup, mustard, *and* relish.</span>
+
+----
+
+Subtitle: 

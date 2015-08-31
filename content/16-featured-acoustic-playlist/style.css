@@ -1,0 +1,8 @@
+#featured-acoustic-playlist { 
+	background: url('featured-acoustic-playlist.jpg') no-repeat center; background-size: cover; 
+	color: #FFF; text-shadow: 2px 2px 8px rgba(0,0,0, 1);
+}
+
+#featured-acoustic-playlist-overlay {
+	background: rgba(255,97,0,0.75);
+}

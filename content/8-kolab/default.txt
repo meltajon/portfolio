@@ -1,0 +1,17 @@
+Title: KOLAB
+
+----
+
+Title-public: KOLAB Agency
+
+----
+
+Text: 
+
+When I started working at KOLAB Agency (formerly Tribe Agency), I was challenged to completely redo the company website as quickly as possible. While I am firmly against rushing any meaningful project, I accepted the challenge to prove myself.
+
+In less than two weeks, I was able to create a custom Wordpress theme based on <a href="http://getbootstrap.com/">Bootstrap</a>.
+
+----
+
+Subtitle: Wordpress, Bootstrap • 2012

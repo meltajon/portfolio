@@ -1,0 +1,19 @@
+Title: Blog
+
+----
+
+Title-public: My Blog
+
+----
+
+Text: 
+
+I casually maintain a personal blog for expressing my thoughts that can't fit in 140 characters. My blog posts are mainly about technology trends, user experience design, and anything that inspires me.
+
+I also use it as my web development playground to test bleeding edge front-end techniques that I otherwise would not be able to implement on any of my work.
+
+<a class="cta-button" target="_blank" href="https://www.meltajon.com/?utm_source=portfolio">View Blog</a>
+
+----
+
+Subtitle: Kirby, Mobile Responsive, SASS

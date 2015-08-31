@@ -1,0 +1,17 @@
+Title: Pringo
+
+----
+
+Title-public: Pringo
+
+----
+
+Text: 
+
+At Pringo, we developed a social networking platform that allowed other companies to create their own Myspace (back when Myspace was bigger than Facebook).
+
+As the first hired employee of Pringo out of 40, I was tasked with wearing multiple hats. In addition to building social networks for our clients, I was the lead product designer for the platform. These screenshots are the early designs of the administration control panel.
+
+----
+
+Subtitle: White Label Social Networking Platform • 2006-2010

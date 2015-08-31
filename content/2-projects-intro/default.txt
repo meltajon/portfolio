@@ -1,0 +1,19 @@
+Title: Projects Intro
+
+----
+
+Title-public: Projects
+
+----
+
+Text: 
+
+This is a sample of the projects I've worked on in the last nine years.
+
+For most of my career, my projects have been primarily in client services. But for the past couple years, I’ve been honing my skills to evolve from an agency developer to being an in-house developer, allowing me to dedicate more time on measuring, validating, and optimizing all design decisions.
+
+I enjoy working with designers and fellow developers who understand and appreciate great user experience.
+
+----
+
+Subtitle: 

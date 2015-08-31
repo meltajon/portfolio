@@ -1,0 +1,25 @@
+Title: TSZ Landing Pages
+
+----
+
+Title-public: The Singing Zone
+
+----
+
+Text: 
+
+## Mobile Responsive Landing Pages
+
+Vital to the growth of *The Singing Zone*, I was tasked with creating and a/b testing dozens of landing pages, each with their own multiple variations.
+
+The owner, not a huge believer in mobile web, accepted my challenge of building a more effective landing page.
+
+This landing page was my first mobile responsive project built with progressive enhancement and focused on speed.
+
+**Conversions increased by 22%.**
+
+(image: ipad-iphone_tsz-lp.png class: figure)
+
+----
+
+Subtitle: 

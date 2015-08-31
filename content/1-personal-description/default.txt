@@ -1,0 +1,21 @@
+Title: Personal Description
+
+----
+
+Title-public: Hi, My Name is Mel
+
+----
+
+Text: 
+
+I am fascinated by the human side of technology. I constantly seek understanding of people with new technology and helping them when their expectations are not met. The most fulfilling feeling for me is when I build something that resonates with real people.
+
+I’m driven by streamlining/redesigning everything so people can work smarter, not harder. I see constraints as opportunities to be creative.
+
+My passion for understanding the human side of technology is what drives me to write beautiful code. When I’m coding, my focus is not on just *what* I am building, but *who* I am building it for.
+
+(image: avatar.jpg class: avatar)
+
+----
+
+Subtitle: 

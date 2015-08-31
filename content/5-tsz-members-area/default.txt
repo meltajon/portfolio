@@ -1,0 +1,19 @@
+Title: TSZ Members Area
+
+----
+
+Title-public: The Singing Zone
+
+----
+
+Text: 
+
+## Members Area
+
+Originally running on an outdated Wordpress theme, we noticed a clear trend in the number of paying members who were trying to access the members site from their smartphones and tablets.
+
+My task was to take elements of the existing Wordpress theme and create a brand new theme from scratch that adopted the latest techniques in mobile responsiveness.
+
+----
+
+Subtitle: 

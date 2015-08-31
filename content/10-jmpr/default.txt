@@ -1,0 +1,17 @@
+Title: JMPR
+
+----
+
+Title-public: JMPR Public Relations
+
+----
+
+Text: 
+
+JMPR is a an award-winning public relations agency for leading companies in the lifestyle and transportation industry. For over 35 years, they've worked with popular brands such as Bugatti, Bentley, Airstream, Piaggo Aero, and PepBoys.
+
+This project involved updating — and *heavily* customizing — their site to a modified version of a premium Wordpress theme. My focus was making the customizations as futureproof and user-friendly as possible for their staff.
+
+----
+
+Subtitle: Wordpress, PHP, JQuery • 2012

@@ -1,0 +1,13 @@
+Title: Kolab Achievement
+
+----
+
+Title-public: 
+
+----
+
+Text: During my time at <span class="inline-block">KOLAB Agency,</span> <span class="inline-block">I streamlined</span> <span class="inline-block">our development process</span> <span class="inline-block">from <strong>three months</strong></span> <span class="inline-block">down to just <strong>three weeks</strong>.</span>
+
+----
+
+Subtitle: 
