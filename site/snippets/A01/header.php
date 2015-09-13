@@ -88,7 +88,17 @@ ul { list-style-type: square; }
 
 #header-title { font-size: 1rem; }
 
-#personal-description { color: #FFF; text-shadow: 1px 1px 8px rgba(0, 0, 0, .5); }
+<?php
+	$header = $site->children()->first();
+	if ($header->hasImages()):
+		$header_image = $header->images()->filterBy('filename', '*=', '1366')->first()->url();
+	endif;
+?>
+
+#personal-description { 
+	background: url('<?php echo $header_image; ?>') no-repeat center; background-size: cover; 
+	color: #FFF; text-shadow: 1px 1px 8px rgba(0,0,0, .5); 
+}
 #personal-description-overlay { background: rgba(255,97,0,0.8); }
 
 .avatar,
