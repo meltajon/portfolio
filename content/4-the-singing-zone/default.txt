@@ -12,4 +12,8 @@ A hugely popular online singing and personal development program, *The Singing Z
 
 My solution was migrate the site to a new file-based CMS, <a href="https://www.getkirby.com">Kirby</a>, which allowed me to completely customize the Admin panel and make it more user-friendly for the owner.
 
-(image: macbook-pro_tsz.png class: macbook-pro_tsz)
+(image: macbook-pro_tsz.png class: macbook-pro_tsz width: 640)
+
+----
+
+Subtitle: 

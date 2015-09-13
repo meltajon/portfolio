@@ -18,7 +18,7 @@ This landing page was my first mobile responsive project built with progressive 
 
 **Conversions increased by 22%.**
 
-(image: ipad-iphone_tsz-lp.png class: figure)
+(image: ipad-iphone_tsz-lp.png class: figure width: 640)
 
 ----
 
