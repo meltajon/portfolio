@@ -1,0 +1,19 @@
+Title: My Values
+
+----
+
+Title-public: The Values I Live By
+
+----
+
+Subtitle: My values help me define <span class="inline-block">my vision,</span> <span class="inline-block">my decisions,</span> <span class="inline-block">and the way I work.</span>
+
+----
+
+Text: 
+
+* **Design for people first**. Things like marketing, feature lists, and sexy technical specs will get customers in the door. But guiding people with a great user experience is what builds loyalty.
+* **Design with purpose**. Don't go chasing after users you will never make happy. Great products are always opinionated and have a clear vision. 
+* **Design with your gut. Iterate with data.** Great product design is one part intuition and one part science. Test your design decisions with (a subset of) your audience and the metrics will tell you if you're right.
+* **Build future-proof systems, not quick fixes**. Don't just build pages for a site. Build a system for non-technical clients, future coworkers, and future software/plugin updates. Keep your system modular and maintain control of most important parts to keep the product lean and agile. Embrace constraints instead of depending too much on third-parties.
+* **Break up big projects into phases**. It's better to launch half a product that does specific things very well than launch a half-assed product that does a ton of things unreliably. Building in phases allows you to test broad ideas, iterate on details, and keep your product lean.

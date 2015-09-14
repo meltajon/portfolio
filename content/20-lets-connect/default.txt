@@ -1,0 +1,19 @@
+Title: Let's Connect
+
+----
+
+Title-public: Let's Connect
+
+----
+
+Text: 
+
+Do we share the same values? If so, I'd love to hear from you.
+
+<a class="cta-button" href="mailto:meltajon+portfolio@gmail.com">Email Me</a>
+
+(file: mel-tajon-front-end-developer-resume.pdf text: Resume) - [Twitter](https://twitter.com/meltajon) - [LinkedIn](https://www.linkedin.com/in/meltajon)
+
+----
+
+Subtitle: 

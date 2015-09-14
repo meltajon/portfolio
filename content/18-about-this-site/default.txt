@@ -8,11 +8,11 @@ Title-public: About This Site
 
 Text: 
 
-This portfolio site was built in less than 24 hours using PHP, <a href="https://www.getkirby.com">Kirby</a>, SASS, Media Queries, and reusable code from three of my current projects.
+This portfolio site was built in less than 32 hours using PHP, <a href="https://www.getkirby.com">Kirby</a>, SASS, Media Queries, and reusable code from three of my current projects.
 
-I build systems, not pages.
+Each section is considered a module in the Kirby CMS. Each module is able to have its own CSS. To optimize for load time, I have all critical above-the-fold styling processed inline in the header HTML. While the user is reading everything above-the-fold, I then have the rest of the custom styling for each module loaded asynchronously.
 
-Check out how this site works behind the scenes.
+Feel free to check out the source code for this site on GitHub.
 
 <a class="cta-button" href="https://github.com/meltajon/portfolio">View on GitHub</a>
 

@@ -1,4 +1,4 @@
-Title: Blog
+Title: My Blog
 
 ----
 
@@ -16,4 +16,4 @@ I also use it as my web development playground to test bleeding edge front-end t
 
 ----
 
-Subtitle: Kirby, Mobile Responsive, SASS
+Subtitle: Mobile Responsive, SASS, Kirby CMS
