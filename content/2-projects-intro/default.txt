@@ -10,9 +10,9 @@ Text:
 
 This is a sample of the projects I've worked on in the last nine years.
 
-For a majority of my career, my projects have been in client services. But for the past couple years, I’ve been honing my skills to evolve from an agency developer to being an in-house developer, allowing me to dedicate more time to measure, validate, and optimize all design decisions.
+For a majority of my career, my projects have been in client services. But for the past couple years, I’ve been expanding my front-end development skills so I can dedicate more time to measuring, validating, and optimizing all design decisions.
 
-I enjoy working with designers and fellow developers who understand and appreciate great user experience.
+I enjoy working with people who value and prioritize great user experiences.
 
 ----
 

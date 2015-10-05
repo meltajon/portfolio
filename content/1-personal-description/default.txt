@@ -8,11 +8,11 @@ Title-public: Hi, My Name is Mel
 
 Text: 
 
-I am a Front-End Developer with experience in HTML5, CSS3, PHP, MySQL, Wordpress, jQuery, Javascript, Git, SVN, mobile responsive design, and progressive enhancement.
+I am a Front-End Developer with expertise in semantic HTML5, CSS3, Wordpress, mobile responsive design, and progressive enhancement. I also have professional experience in PHP, MySQL, jQuery, Javascript, Git, and SVN.
 
-But as an underlying foundation for all of that, I am a solutions-oriented thinker who is fascinated by the human side of technology. I constantly seek understanding of great user experience design and I am driven to build things that resonate with real people. 
+But as an underlying foundation for all of my skills, I am a solutions-oriented thinker who is fascinated by the human side of technology. I constantly seek understanding of great user experience design and I am driven to build things that resonate with real people. 
 
-I don't just build pages for sites. I craft solutions and systems for people, enabling them to work smarter, not harder.
+I don't just build pages for sites. I solve problems and craft systems for people, enabling them to work smarter, not harder.
 
 My passion for the human side of technology is what drives me to write beautiful code. When I code, my focus is not on just *what* I am building, but *who* I am building it for.
 

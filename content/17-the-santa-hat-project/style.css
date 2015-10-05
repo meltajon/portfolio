@@ -1,0 +1,9 @@
+#the-santa-hat-project { 
+	background: url('santa-hats-best-of.jpg') no-repeat center; background-size: cover; 
+	color: #000; 
+}
+#the-santa-hat-project-overlay {
+	padding: 100px 0;
+	background: rgba(0,0,0, 0.5); 
+	background: rgba(255,255,255, 0.85); 
+}
