@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-html { @extend .ideal-sans; }
+html { font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 /* GLOBALS
 ------------------------------------------------------------------------------
@@ -13,9 +13,9 @@ a:visited { color: $orange; }
 ------------------------------------------------------------------------------*/
 #header { 
 	background: $dark; 
-	@extend .whitney_300; 
+	font-weight: 300;
 }
-#logo { @extend .whitney_500; }
+#logo { font-weight: 500; }
 #logo:link,
 #logo:visited { color: darken(#FFF, .1); }
 #logo:hover { color: $orange; }
@@ -26,7 +26,7 @@ a:visited { color: $orange; }
 ------------------------------------------------------------------------------*/
 #footer { 
 	width: 100%; 
-	@extend .whitney_300; 
+	font-weight: 300; 
 }
 #footer a:link,
 #footer a:visited { border: 0; }

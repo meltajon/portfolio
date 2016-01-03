@@ -116,7 +116,6 @@ ul { list-style-type: square; }
 
 <!-- Stylesheets -->
 <link rel="stylesheet" media="all" href="/assets/<?php echo $site->theme(); ?>/style.php/style.scss" />
-<link rel="stylesheet" media="all" href="//cloud.typography.com/7950712/692046/css/fonts.css" />
 
 <!-- Javascripts -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -124,11 +123,9 @@ ul { list-style-type: square; }
 
 <!-- Prefetch -->
 <link rel="dns-prefetch" href="//ajax.googleapis.com" />
-<link rel="dns-prefetch" href="//cloud.typography.com" />
 
 <link rel="prefetch" href="/assets/<?php echo $site->theme(); ?>/style.php/style.scss" />
 <link rel="prefetch" href="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" />
-<link rel="prefetch" href="//cloud.typography.com/7950712/692046/css/fonts.css" />
 
 
 <!-- SEO -->

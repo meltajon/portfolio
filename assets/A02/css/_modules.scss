@@ -11,7 +11,7 @@
 .cta-button { 
 	display: block;
 	padding: 5px 0; margin: 1rem 0;;
-	@extend .ideal-caps_300; font-size: 1rem; text-align: center; 
+	font-weight: 300;  font-size: 1rem; text-align: center; 
 }
 @media (min-width: 361px) {
 	.cta-button { max-width: 240px; margin: 2.56em auto 0; }
