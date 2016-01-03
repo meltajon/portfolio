@@ -14,7 +14,7 @@ Keywords: Kirby, CMS, file-based
 
 ----
 
-Theme: A01
+Theme: A02
 
 ----
 
